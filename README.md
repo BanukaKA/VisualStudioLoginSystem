@@ -1,11 +1,11 @@
 # VisualStudioLoginSystem
-# C++
+# C#
 # Banuka Ambegoda
 
 This is a sample login and registration system designed via visual studio
 
 Version : 2013 ||
-Language : C++ ||
+Language : C# ||
 
 A SQL data base is embeded
 Any one can use this in continue building a registration and login system
