@@ -1,0 +1,14 @@
+F:\C#\LoginSystemBKA\LoginSystemBKA\bin\Debug\LoginSystemBKA.exe.config
+F:\C#\LoginSystemBKA\LoginSystemBKA\bin\Debug\LoginSystemBKA.exe
+F:\C#\LoginSystemBKA\LoginSystemBKA\bin\Debug\LoginSystemBKA.pdb
+F:\C#\LoginSystemBKA\LoginSystemBKA\obj\Debug\LoginSystemBKA.csprojResolveAssemblyReference.cache
+F:\C#\LoginSystemBKA\LoginSystemBKA\obj\Debug\LoginSystemBKA.Form1.resources
+F:\C#\LoginSystemBKA\LoginSystemBKA\obj\Debug\LoginSystemBKA.Main.resources
+F:\C#\LoginSystemBKA\LoginSystemBKA\obj\Debug\LoginSystemBKA.Properties.Resources.resources
+F:\C#\LoginSystemBKA\LoginSystemBKA\obj\Debug\LoginSystemBKA.csproj.GenerateResource.Cache
+F:\C#\LoginSystemBKA\LoginSystemBKA\obj\Debug\LoginSystemBKA.exe
+F:\C#\LoginSystemBKA\LoginSystemBKA\obj\Debug\LoginSystemBKA.pdb
+F:\C#\LoginSystemBKA\LoginSystemBKA\obj\Debug\LoginSystemBKA.Help.resources
+F:\C#\LoginSystemBKA\LoginSystemBKA\obj\Debug\LoginSystemBKA.SignUp.resources
+F:\C#\LoginSystemBKA\LoginSystemBKA\bin\Debug\Data.mdf
+F:\C#\LoginSystemBKA\LoginSystemBKA\bin\Debug\Data_log.ldf
