@@ -1,5 +1,5 @@
 # VisualStudioLoginSystem
-# c++
+# C++
 # Banuka Ambegoda
 
 This is a sample login and registration system designed via visual studio
